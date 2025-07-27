@@ -1,5 +1,5 @@
 Crochet Row Counter (Customizable Counter)
-This is a simple, interactive Crochet Row Counter built using HTML, CSS, and JavaScript. It allows users to increment their current row count and save previous counts. The project can also be repurposed as a general-use counter — whether you're tracking reps at the gym, cups of water, or anything else!
+This is a simple, interactive Crochet Row Counter built using HTML, CSS, and JavaScript. It allows users to increment their current row count and save previous counts. The project can also be repurposed as a general-use counter , whether you're tracking reps at the gym, cups of water, or anything else!
 
 ✨ Features
 ✅ Increment Button — Adds 1 to your current count.
