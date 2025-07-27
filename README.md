@@ -1,19 +1,36 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+Crochet Row Counter (Customizable Counter)
+This is a simple, interactive Crochet Row Counter built using HTML, CSS, and JavaScript. It allows users to increment their current row count and save previous counts. The project can also be repurposed as a general-use counter — whether you're tracking reps at the gym, cups of water, or anything else!
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+✨ Features
+✅ Increment Button — Adds 1 to your current count.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+💾 Save Button — Logs the current count and resets the counter to zero.
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+🧹 Auto Reset — The counter resets after each save, so you're always starting fresh.
 
-Happy Coding!
+🎨 Clean, responsive UI — Easily adaptable for mobile or desktop.
+
+🚀 Technologies Used
+HTML – For structure
+
+CSS – For styling
+
+JavaScript – For logic and interactivity
+
+🔧 How to Use
+Click the Increment button each time you complete a row (or action you're counting).
+
+Click the Save button to log your progress.
+
+The count resets automatically, ready for the next round.
+
+🎯 Customization
+Want to use it for something other than crochet? Just change the label text and it becomes:
+
+A rep counter for workouts
+
+A page tracker for reading
+
+A water intake logger
+
+Or any other personal counter you need!
